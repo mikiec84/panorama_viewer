@@ -1,4 +1,4 @@
-#Panorama Viewer by Pete R.
+#Panorama Viewer by Pete R.hhhg
 Embed interactive Panorama Pictures on your site with this simple plugin.
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [Travelistly](http://www.Travelistly.com) and [BucketListly](http://www.bucketlistly.com)
 
